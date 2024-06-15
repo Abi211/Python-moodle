@@ -5,7 +5,7 @@ Given a positive integer N, check whether it can be represented as a product of 
 Input Format:
 
 Single Integer input.
-
+ 
 Output Format:
 
 Output displays Yes if condition satisfies else prints No.
