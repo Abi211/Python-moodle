@@ -8,7 +8,7 @@ The first line contains space-separated values, denoting the size of the two arr
 
 The next two lines contain the space-separated integer arrays to be compared.
 
-
+ 
 
 Sample Input:
 
