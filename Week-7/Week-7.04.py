@@ -5,7 +5,7 @@ An e-commerce company plans to give their customers a special discount for Chris
 They are planning to offer a flat discount. The discount value is calculated as the sum of all the prime digits in the total bill amount.
 
 Write an python code to find the discount value for the given total bill amount.
-
+ 
 Constraints
 
 1 <= orderValue< 10e100000
