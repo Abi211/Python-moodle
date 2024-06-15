@@ -2,7 +2,7 @@ Background:
 
 Dr. John Wesley maintains a spreadsheet with student records for academic evaluation. The spreadsheet contains various data fields including student IDs, marks, class names, and student names. The goal is to develop a system that can calculate the average marks of all students listed in the spreadsheet.
 
-
+ 
 
 Problem Statement:
 
