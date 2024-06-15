@@ -4,7 +4,7 @@ In London, every year during Dasara there will be a very grand doll show. People
 
  IF Lokpaul wins print true, otherwise false.
 
-
+ 
 
 Sample Input
 
