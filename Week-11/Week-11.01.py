@@ -6,7 +6,7 @@ Input Format: A single line input representing the user's age.
 Output Format: Print a message based on the age or an error if the input is invalid.
 
 
-
+ 
 
 
 For example:
