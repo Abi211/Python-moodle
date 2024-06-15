@@ -8,7 +8,7 @@ Note1 - The second last digit should be returned as a positive number. i.e. if t
 
 Note2 - If the given number is a single digit number, then the second last digit does not exist. In such cases, the program should return -1. i.e. if the given number is 5, the second last digit should be returned as -1.
 
-For example:
+For example: 
 
 Input	Result
 
