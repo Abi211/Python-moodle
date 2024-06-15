@@ -1,6 +1,6 @@
 Scramble Score
 
-
+ 
 
 In the game of Scrabble™, each letter has points associated with it. The total score of a word is the sum of the scores of its letters. More common letters are worth fewer points while less common letters are worth more points. 
 
