@@ -5,7 +5,7 @@ complete function to implement coin change making problem i.e. finding the minim
 number of coins of certain denominations that add up to given amount of money.
 
 The only available coins are of values 1, 2, 3, 4
-
+ 
 Input Format:
 
 Integer input from stdin.
