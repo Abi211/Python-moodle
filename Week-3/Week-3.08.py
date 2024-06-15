@@ -1,5 +1,5 @@
 Pythagorean triple
-
+ 
 Three numbers form a Pythagorean triple if the sum of squares of two numbers is equal to the square of the third.
 
 For example, 3, 5 and 4 form a Pythagorean triple, since 3*3 + 4*4 = 25 = 5*5 
