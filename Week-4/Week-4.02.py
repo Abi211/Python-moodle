@@ -1,5 +1,5 @@
 Non Repeated Digit Count
-
+ 
 Write a program to find the count of non-repeated digits in a given number N. The number will be passed to the program as an input of type int.
 
 Assumption: The input number will be a positive integer number >= 1 and <= 25000.
