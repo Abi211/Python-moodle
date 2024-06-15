@@ -5,7 +5,7 @@ Input Format: Two lines of input, each containing a number.
 Output Format: Print the result of the division or an error message if an exception occurs.
 
 
-
+ 
 
 
 For example:
