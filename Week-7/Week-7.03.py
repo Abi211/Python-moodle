@@ -4,7 +4,7 @@ Write a code to check whether product of digits at even places is divisible by s
 
 Input Format:
 
-
+ 
 
 Take an input integer from stdin.
 
