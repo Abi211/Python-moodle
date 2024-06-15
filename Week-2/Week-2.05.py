@@ -4,7 +4,7 @@ Pretend that you have just opened a new savings account that earns 4 percent int
 
 Sample Input:
 
-10000
+10000 
 
 Sample Output:
 
