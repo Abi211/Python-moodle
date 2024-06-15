@@ -5,7 +5,7 @@ Consider a program to insert an element / item in the sorted array. Complete the
 Sample Test Cases
 
 Test Case 1
-
+ 
 Input
 
 1
