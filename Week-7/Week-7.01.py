@@ -2,7 +2,7 @@ Abundant Number
 
 An abundant number is a number for which the sum of its proper divisors is greater than the number itself. Proper divisors of the number are those that are strictly lesser than the number.
 
-
+ 
 
 Input Format:
 
