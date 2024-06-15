@@ -5,7 +5,7 @@ Complete the program to count frequency of each element of an array. Frequency o
 Sample Test Cases
 
  Test Case 1
-
+ 
  Input
 
  7
