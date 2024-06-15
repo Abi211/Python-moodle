@@ -5,7 +5,7 @@ Given a number N, find the next perfect square greater than N.
 Input Format:
 
 Integer input from stdin.
-
+ 
 Output Format:
 
 Perfect square greater than N.
