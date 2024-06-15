@@ -5,7 +5,7 @@ Given a number with maximum of 100 digits as input, find the difference between 
 Input Format:
 
 Take a number in the form of String from stdin.
-
+ 
 Output Format:
 
 Print the difference between sum of even and odd digits
