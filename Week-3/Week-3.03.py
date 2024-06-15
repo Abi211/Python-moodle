@@ -3,7 +3,7 @@ Electricity Bill
 Write a program to calculate and print the Electricity bill where the unit consumed by the user is given from test case. It prints the total amount the customer has to pay. The charge are as follows: 
 
 Unit                                                     Charge / Unit
-
+ 
 Upto 199                                             @1.20
 
 200 and above but less than 400        @1.50
