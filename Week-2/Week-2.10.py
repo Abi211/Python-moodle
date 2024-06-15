@@ -1,5 +1,5 @@
 Return last digit of the given number
-
+ 
 Write a program that returns the last digit of the given number. Last digit is being referred to the least significant digit i.e. the digit in the ones (units) place in the given number.
 
 The last digit should be returned as a positive number.
