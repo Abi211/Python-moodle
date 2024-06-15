@@ -7,7 +7,7 @@ Given a string text of words separated by a single space (no leading or trailing
 Example 1:
 
 Input: text = "hello world", brokenLetters = "ad"
-
+ 
 Output: 
 
 1
