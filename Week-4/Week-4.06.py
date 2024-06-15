@@ -2,7 +2,7 @@ Disarium Number
 
 A Number is said to be Disarium number when the sum of its digit raised to the power of their respective positions becomes equal to the number itself. Write a program to print number is Disarium or not.
 
-
+ 
 
 Input Format:
 
