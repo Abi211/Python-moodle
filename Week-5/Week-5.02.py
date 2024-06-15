@@ -1,7 +1,7 @@
 Check pair with difference k
 
 Given an array A of sorted integers and another non negative integer k, find if there exists 2 indices i and j such that A[i] - A[j] = k, i != j.
-
+ 
 Input Format
 
 1.      First line is number of test cases T. Following T lines contain:
