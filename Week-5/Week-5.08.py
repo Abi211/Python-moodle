@@ -5,7 +5,7 @@ Output is a merged array without duplicates.
 Input Format
 
 N1 - no of elements in array 1
-
+ 
 Array elements for array 1
 
 N2 - no of elements in array 2
